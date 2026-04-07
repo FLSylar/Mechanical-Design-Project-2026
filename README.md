@@ -1,4 +1,4 @@
-Group "We are the Power":
+Group:
 Joseph Ostrand
 Daniel Romero
 Sarah Roza
