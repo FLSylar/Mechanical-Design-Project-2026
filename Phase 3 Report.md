@@ -1,5 +1,5 @@
 Video Presentation Youtube Link:
-*insert epic project video link here*
+https://youtu.be/YPt1UHO9M9A
 
 
 Fabrication details (filament type, printer, settings, number of reprints):
